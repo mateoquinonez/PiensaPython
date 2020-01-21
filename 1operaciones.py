@@ -17,7 +17,7 @@ print(x+y)
 
 ''' 
 
-Aqui print() es lo que llamamos una funcion. Una funcion es un pedazo de codigo
+Aqui print() es una funcion. Una funcion es un pedazo de codigo
 que generalmente toma algunos datos de entrada, llamados argumentos, basicamente algo
 que al brindarle una entrada, lo procesa y te responde con una salida, esta salida
 se llama valor de retorno (return value).
