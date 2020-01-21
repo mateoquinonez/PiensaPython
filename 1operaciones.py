@@ -16,6 +16,13 @@ La siguiente linea de codigo imprimira el resultado de sumar x con yield
 print(x+y)
 
 ''' 
+
+Aqui print() es lo que llamamos una funcion. Una funcion es un pedazo de codigo
+que generalmente toma algunos datos de entrada, llamados argumentos, basicamente algo
+que al brindarle una entrada, lo procesa y te responde con una salida, esta salida
+se llama valor de retorno (return value).
+'''
+'''
 Debemos recordar que es imposible en la gran mayoria de los casos, sumar variables 
 de diferentes tipos. En ese caso, poner 
 
