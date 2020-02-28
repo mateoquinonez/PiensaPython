@@ -40,6 +40,13 @@ y = "Esta es una linea de texto"
 # Entonces estamos pidiendole a Python que memorice que la variable y tiene
 # una linea de texto
 
+#tambien podemos reasignar valores a una variable
+#reasignemos el valor de y
+
+y = 5
+
+#ahora y paso de ser una variable que almacenaba un dato tipo string o texto a ser una variable que almacena un dato tipo numerico
+
 #-----------------------------------------
 
 # El tercer tipo de dato es el boolean
