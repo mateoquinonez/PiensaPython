@@ -5,9 +5,9 @@ print("Quiero mostrar esto al usuario")
 
 #Por ejemplo, strings. Tambien se pueden mostrar variables:
 
-#x = 7
+x = 7
 
-#print(x)
+print(x)
 
 #Y se pueden combinar ambos metodos
 
@@ -20,7 +20,7 @@ Pasemos a las listas o vectores. Como vimos son cajas con valores
 adentro. Estos valores pueden ser variables de cualquier tipo
 '''
 
-#ejemplo = [4, 6, "Java", False, [4, 9], x ]
+ejemplo = [4, 6, "Java", False, [4, 9], x ]
 
 '''
 Es hora de que aprendamos a preguntar a Python que hay en la caja
@@ -32,20 +32,20 @@ a la derecha del 6, etc. Python lee las listas de IZQUIERDA A DERECHA
 por lo tanto, el 4 va primero, el 6 va segundo, "Java" va tercero, etc
 
 
-x =  [v1  ,  v2  ,  v3  ,  v4  ,  v5  ,  v6]
-      ^      ^      ^      ^      ^      ^
-      |      |      |      |      |      |
-      |      |      |      |      |      |
-	  x[0]   x[1]   x[2]   x[3]   x[4]   x[5]
+  x =  [v1  ,  v2  ,  v3  ,  v4  ,  v5  ,  v6]
+        ^      ^      ^      ^      ^      ^
+        |      |      |      |      |      |
+        |      |      |      |      |      |
+      x[0]   x[1]   x[2]   x[3]   x[4]   x[5]
 	  
-Por razones historicas, las computadoras empiezan a contar desde cero
-la forma de preguntar a Python sobre una variable es poniendo el nombre
-de la lista, y luego, en corchetes, el valor que se pregunta.
+Por razones historicas, las computadoras empiezan a contar desde cero.
+La forma de preguntar a Python sobre una variable es poniendo el nombre
+de la lista, y luego, en corchetes, la posicion que se pregunta.
 
 
 '''
 
-#print(ejemplo[3])
+print(ejemplo[3])
 
 #Que valor va a mostrar la linea de codigo anterior?
 
