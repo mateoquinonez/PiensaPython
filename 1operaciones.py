@@ -71,8 +71,36 @@ Resto de division ( % ) :
 12 % 7 El resto de la division de 12 entre 7. En este caso es 5
 
 '''
+#OPERADORES RELACIONALES
 
-#OPERACIONES BOOLEANAS
+'''
+ Existen operadores que comparan valores
+ > (es mayor a)
+ < (es menor a)
+ == (es igual a)
+ != (no es igual a)
+ >= (es mayor que o igual a)
+ <= (es menor que o igual a)
+'''
+#operador "es mayor a"
+
+num1 = 7
+num2 = 13
+num1 > num2
+
+#operador "es menor a"
+
+num1 < num2
+
+#operador "es igual a"
+
+num1 == num2
+
+#operador "no es igual a"
+
+num1 != num2
+
+#OPERACIONES LOGICAS
 
 '''
  En ciertas ocaciones, necesitamos exponer a nuestro programa a ciertas
@@ -117,3 +145,38 @@ de parentesis en primer lugar.
 print (not ( False and (True or True) ) )
 
 #que va a imprimir la consola?
+
+#OPERACIONES DE PERTENENCIA
+
+'''
+ Este tipo de operadores nos ayudan a verificar si cierto valor esta en otro 
+ in (esta en)
+ not in (no esta en)
+'''
+
+2 in [1, 2, 3]
+
+'libro' in 'mochila'
+
+2 not in (1, 2, 3)
+
+'libro' not in 'mochila'
+
+#OPERADORES DE IDENTIDAD
+
+'''
+ Los operadores de identidad verifican si dos variables son identicas.
+ is (es)
+ is not (no es)
+'''
+
+2 is 2.0
+
+a = 8
+b = a
+a is b
+
+c = 8
+a is c
+
+0 is not False
