@@ -25,6 +25,11 @@ c = a + b
 c = 2*c
 x = x-a
 
+#tengo que asignar un valor inicial a una variable, antes de pretender alterarla
+#prueba el siguiente codigo
+d = d+2
+
+#¿que error te da?
 
 #-----------------------------------------
 
