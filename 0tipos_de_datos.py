@@ -12,6 +12,10 @@ x = 7
 
 a, b = 4,7
 
+#tambien podemos asignar lo mismo a dos variables
+
+a = b = 5
+
 #y asignar una variable en funcion de otra
 
 c = a + b
