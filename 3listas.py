@@ -25,7 +25,7 @@ lista.atributo(valor)
 Cambian la naturaleza de la lista
 '''
 
-#las variables en scripts son guardadas en el Pyton Shell
+#las variables en scripts son guardadas en el Python Shell
 
 lista1 = [1, 2, 3, 4, 5, 6]
 
