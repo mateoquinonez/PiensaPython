@@ -18,8 +18,7 @@ print(x+y)
 ''' 
 
 Aqui print() es una funcion. Una funcion es un pedazo de codigo
-que generalmente toma algunos datos de entrada, llamados argumentos, basicamente algo
-que al brindarle una entrada, lo procesa y te responde con una salida, esta salida
+que generalmente toma algunos datos de entrada, lo procesa y te responde con una salida. Esta salida
 se llama valor de retorno (return value).
 '''
 '''
@@ -76,13 +75,13 @@ Resto de division ( % ) :
 #OPERACIONES BOOLEANAS
 
 '''
- En ciertas ocaciones, necesitamos condicionar nuestro programa a mas 
- de una condicion. Consideremos el siguiente ejemplo:
+ En ciertas ocaciones, necesitamos exponer a nuestro programa a ciertas
+ condiciones. Consideremos el siguiente ejemplo:
  
  Python, comprame una empanada si hay plata y si la despensa tiene 
  empanada de pollo.
 
-Como le decimos a python que haga la instruccion?
+¿Como le decimos a python que haga la instruccion?
 Usando el operador and ( & )
 
 '''
