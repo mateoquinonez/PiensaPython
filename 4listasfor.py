@@ -1,4 +1,4 @@
-#Ahora nos introduciremos a los bucles for
+#El poder de los loops
 '''
 Supongamos que quiero felicitar a todos los alumnos de mi clase,
 mediante Python. Podria hacerlo de la siguiente manera:
@@ -15,7 +15,8 @@ print("-------------------------")
 #mil alumnos? Debo escribir un mensaje para cada uno separadamente?
 #En Python no es necesario!
 '''
-Tenemos lo que se llama el bucle for
+Tenemos lo que se llama el bucle o loop for
+
 for |variable| in LISTA:
 	 -------------------
 	|			|
