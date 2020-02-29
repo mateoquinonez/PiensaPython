@@ -9,6 +9,8 @@ a eleccion tuya.
 3) Siempre que use la palabra "imprimir"  o "retornar", o alguna de sus conjugaciones, te estoy pidiendo que, mediante la 
 funcion print() le muestres el resultado esperado al usuario.
 -----------------------------------
+docs.python.org.ar
+
 Ejercicio 1 (C):
 Dada la siguiente lista:
 x = [1, 3, True, [4,3], 6, "String", 6, 4, -1]
